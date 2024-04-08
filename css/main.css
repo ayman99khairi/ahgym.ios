@@ -1284,15 +1284,15 @@ body {
 }
 
 .about--options>a:nth-child(1) {
-    background-image: url("../img/image00001.jpg")
+    background-image: url("./img/image00001.jpg")
 }
 
 .about--options>a:nth-child(2) {
-    background-image: url("../img/image00003.jpg")
+    background-image: url("./img/image00003.jpg")
 }
 
 .about--options>a:nth-child(3) {
-    background-image: url("../img/image00002.jpg")
+    background-image: url("./img/image00002.jpg")
 }
 
 .about--options>a:hover h3 {
@@ -1387,7 +1387,7 @@ body {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url("../img/maps.png");
+    background-image: url("./img/maps.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat
